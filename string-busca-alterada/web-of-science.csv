@@ -1,0 +1,800 @@
+ID,ENTRYTYPE,author,title,year,journal,booktitle,doi,url,abstract,pages
+WOS:000800815600001,article,"Tian, Yong and Yue, Xiang and Wang, Lin and Feng, Yan","Vibration suppression of collaborative robot based on modified
+trajectory planning",2023,"INDUSTRIAL ROBOT-THE INTERNATIONAL JOURNAL OF ROBOTICS RESEARCH AND
+APPLICATION",,10.1108/IR-01-2022-0017,,"Purpose The paper aims to reduce the low-frequency resonance and
+residual vibration of the robot during the operation, improve the
+working accuracy and efficiency. A reduced weight and large
+load-to-weight ratio can improve the practical application of a
+collaborative robot. However, flexibility caused by the reduced weight
+and large load-to-weight ratio leads to low-frequency resonance and
+residual vibration during the operation of the robot, which reduces the
+working accuracy and efficiency. The vibrations of the collaborative
+robot are suppressed using a modified trajectory-planning method.
+Design/methodology/approach A rigid-flexible coupling dynamics model of
+the collaborative robot is established using the finite element and
+Lagrange methods, and the vibration equation of the robot is derived.
+Trajectory planning is performed with the excitation force as the
+optimization objective, and the trajectory planning method is modified
+to reduce the vibration of the collaborative robot and ensure the
+precision of the robot terminal. Findings The vibration amplitude is
+reduced by 80\%. The maximum torque amplitude of the joint before the
+vibration suppression reaches 50 N center dot m. After vibration
+suppression, the maximum torque amplitude of the joint is 10 N center
+dot m, and the resonance phenomenon is eliminated during the operation
+process. Consequently, the effectiveness of the modified trajectory
+planning method is verified, where the vibration and residual vibration
+in the movement of the collaborative robot are significantly reduced,
+and the positioning accuracy and working efficiency of the robot are
+improved. Originality/value This method can greatly reduce the vibration
+and residual vibration of the collaborative robot, improve the
+positioning accuracy and work efficiency and promote the rapid
+application and development of collaborative robots in the industrial
+and service fields.",45-55
+WOS:000729347400001,article,"Lai, Yang-Lun and Chen, Po-Lun and Su, Tsung-Chen and Hwang, Wei-Yang
+and Chen, Shih-Fang and Yen, Ping-Lang",A Collaborative Robot for Tea Harvesting with Adjustable Autonomy,2022,CYBERNETICS AND SYSTEMS,,10.1080/01969722.2021.2008678,,"A collaborative mobile robot has been developed for tea plucking in
+narrow terrain tea gardens. The robot executes stable side-by-side
+motions and carries most of the load of the tea harvesting machine. The
+robot is controlled with adjustable autonomy so that the human can
+provide a supervisory role and adjust the optimal height and forward
+speed of the cutting tool. During tea plucking, the robot can
+autonomously detect the tree rows and avoid colliding with the trees.
+The experimental results show that the proposed collaborative robot can
+stably co-work with humans and significantly improve working efficiency
+and comfort.",4-22
+WOS:001294438700010,inproceedings,"Zhang, Zhengming and Wang, Weijun and Sun, Wei and Liu, Shujian and Liu,
+Yunfei and Fan, Jiyong and Liu, Huarui and Zhao, Yangzhou and Wang,
+Qinghui and Cui, Xingyu",Design for Collaborative Robot with 6 Degree of Freedom(DOF),2024,,"2024 10TH INTERNATIONAL CONFERENCE ON ELECTRICAL ENGINEERING, CONTROL
+AND ROBOTICS, EECR 2024",10.1109/EECR60807.2024.10607241,,"The design and control technology of the collaborative robot is studied
+systematically, and the body structure is lightweight design, and the
+high-strength thin shell is designed in this paper. According to the
+maximum load and speed requirements of the robot, the torque check of
+the two kinds of modular joint motor and harmonic reducer of the robot
+is carried out. The new driving principle is studied. The frameless
+direct drive motor and the harmonic reducer with certain flexibility are
+high-density integrated, and the electromechanical joint with high power
+density ratio is developed, and the series and modularization are
+carried out. A new flexible braking mechanism is designed to simplify
+the joint structure and facilitate heat dissipation, which provides a
+new idea for joint structure design of collaborative robots. From the
+basic theory and key technology, it provides innovative ideas and
+solutions for the realization of ``man-machine integration{''}, and lays
+the foundation for the realization of highly adaptive cooperation
+between robots and people.",56-62
+WOS:000756902700016,article,"Paniti, Imre and Nacsa, Janos and Szur, David and Racz, Sandor and Toth,
+Jozsef","COMPLEMENTARY MANIPULATOR TOOL DEVELOPMENT FOR SAFE COBOT-ASSISTED
+HYDROPONICS",2021,HUNGARIAN JOURNAL OF INDUSTRY AND CHEMISTRY,,10.33927/hjic-2021-27,,"Human-robot collaboration is gaining ground in Manufacturing, Healthcare
+and Logistics but also in Agriculture. Different types of applications
+in the latter field are becoming more common. However, in all scenarios,
+safety assessment and verification are crucial to cope with the related
+standards and specifications. In this paper, the development and safety
+testing of a complementary manipulator tool (Clip) is presented which
+can by design limit the physical interaction energy in a hazardous
+collaborative robot (cobot) scenario, namely when loading the plant of a
+Hydroponic System.",85-89
+WOS:000365048400007,article,"Shiomi, Masahiro and Kanda, Takayuki and Howley, Iris and Hayashi,
+Kotaro and Hagita, Norihiro",Can a Social Robot Stimulate Science Curiosity in Classrooms?,2015,INTERNATIONAL JOURNAL OF SOCIAL ROBOTICS,,10.1007/s12369-015-0303-1,,"This study investigates whether the presence of a social robot and
+interaction with it raises children's interest in science. We placed
+Robovie, our social robot, in an elementary school science class where
+children could freely interact with it during their breaks. Robovie was
+tele-operated and its behaviors were designed to answer any questions
+related to science. It encouraged the children to ask about science by
+initiating conversations about class topics. Our result shows that even
+though Robovie did not influence the science curiosity of the entire
+class, there were individual increases in the children who asked Robovie
+science questions.",641-652
+WOS:000529319700001,article,"Gradolewski, Dawid and Maslowski, Dawid and Dziak, Damian and
+Jachimezyk, Bartosz and Mundlamuri, Siva Teja and Prakash, Chandran G.
+and Kulesza, Wlodek J.",A Distributed Computing Real-Time Safety System of Collaborative Robot,2020,ELEKTRONIKA IR ELEKTROTECHNIKA,,10.5755/j01.eie.26.2.25757,,"Robotization has become common in modern factories due to its efficiency
+and cost-effectiveness. Lots of robots and manipulators share their
+workspaces with humans what could lead to hazardous situations causing
+health damage or even death. This article presents a real-time safety
+system applying the distributed computing paradigm for a collaborative
+robot. The system consists of detection/sensing modules connected with a
+server working as decision-making system. Each configurable sensing
+module pre-processes vision information and then sends to the server the
+images cropped to new objects extracted from a background. After
+identifying persons from the images, the decision-making system sends a
+request to the robot to perform pre-defined action. In the proposed
+solution, there are indicated three safety zones defined by three
+different actions on a robot motion. As identification method,
+state-of-the-art of Machine Learning algorithms, the Histogram of
+Oriented Gradients (HOG), Viola-Jones, and You Only Look Once (YOLO),
+have been examined and presented. The industrial environment tests
+indicated that YOLOv3 algorithm outperformed other solutions in terms of
+identification capabilities, false positive rate and maximum latency.",4-14
+WOS:001369728006089,inproceedings,"Mahalingam, Dasharadhan and Patankar, Aditya and Phi, Khiem and
+Chakraborty, Nilanjan and McGann, Ryan and Ramakrishnan",Containerized Vertical Farming Using Cobots,2024,,"2024 IEEE INTERNATIONAL CONFERENCE ON ROBOTICS AND AUTOMATION (ICRA
+2024)",10.1109/ICRA57147.2024.10609985,,"Containerized vertical farming is a type of vertical farming practice
+using hydroponics in which plants are grown in vertical layers within a
+mobile shipping container. Space limitations within shipping containers
+make the automation of different farming operations challenging. In this
+paper, we explore the use of cobots (i.e., collaborative robots) to
+automate two key farming operations, namely, the transplantation of
+saplings and the harvesting of grown plants. Our method uses a single
+demonstration from a farmer to extract the motion constraints associated
+with the tasks, namely, transplanting and harvesting, and can then
+generalize to different instances of the same task. For transplantation,
+the motion constraint arises during insertion of the sapling within the
+growing tube, whereas for harvesting, it arises during extraction from
+the growing tube. We present experimental results to show that using
+RGBD camera images (obtained from an eye-in-hand configuration) and one
+demonstration for each task, it is feasible to perform transplantation
+of saplings and harvesting of leafy greens using a cobot, without
+task-specific programming. Video- https://youtu.be/KMqA-4GvKwk",17897-17903
+WOS:000474685800130,inproceedings,"Pablo Vasconez, Juan and Guevara, Leonardo and Auat Cheein, Fernando","Social robot navigation based on HRI non-verbal communication A case
+study on avocado harvesting",2019,,"SAC `19: PROCEEDINGS OF THE 34TH ACM/SIGAPP SYMPOSIUM ON APPLIED
+COMPUTING",10.1145/3297280.3297569,,"To date, robotic applications in agriculture are still a challenging
+topic, which has been studied mainly for large farms. However, groves in
+particular, require tasks, such as picking and handling, that still
+require human labor force. In countries such as Chile and Peru, avocado
+is one of the main fruit production, but its growing in complex
+environments, making it difficult to fully automate the harvesting
+process. In this scenario, human-robot interaction (HRI) strategies can
+provide solutions to enhance the farming process. In this work, we
+propose the use of a HRI strategy via three visual non-verbal
+communication methods, with the aim of improving the avocado harvesting
+process leading to possible human workload decrement. Using such HRI
+directives, a robot motion controller is implemented for the robotic
+service unit to ensure that the interaction is socially acceptable
+during the avocado transportation task. The robot social navigation is
+tested in a simulated environment where the robot interacts with field
+workers to test three control tasks which are approaching, following and
+avoiding the human.",957-960
+WOS:000930386200001,article,"Tziolas, Emmanouil and Karapatzak, Eleftherios and Kalathas, Ioannis and
+Lytridis, Chris and Mamalis, Spyridon and Koundouras, Stefanos and
+Pachidis, Theodore and Kaburlasos, Vassilis G.","Comparative Assessment of Environmental/Energy Performance under
+Conventional Labor and Collaborative Robot Scenarios in Greek
+Viticulture",2023,SUSTAINABILITY,,10.3390/su15032753,,"The viticultural sector is facing a significant maturation phase,
+dealing with environmental challenges to reduce agrochemical application
+and energy consumption, while labor shortages are increasing throughout
+Europe and beyond. Autonomous collaborative robots are an emerging
+technology and an alternative to the scarcity of human labor in
+agriculture. Additionally, collaborative robots could provide
+sustainable solutions to the growing energy demand of the sector due to
+their skillful precision and continuous labor. This study presents an
+impact assessment regarding energy consumption and greenhouse gas
+emissions of collaborative robots in four Greek vineyards implementing a
+life cycle assessment approach. Eight scenarios were developed in order
+to assess the annual production of four Vitis vinifera L. cultivars,
+namely, Asyrtiko, Cabernet Sauvignon, Merlot, and Tempranillo,
+integrating data from two wineries for 3 consecutive years. For each
+conventional cultivation scenario, an alternative was developed,
+substituting conventional viticultural practices with collaborative
+robots. The results showed that collaborative robots' scenarios could
+achieve a positive environmental and energy impact compared with
+conventional strategies. The major reason for lower impacts is fossil
+fuel consumption and the efficiency of the selected robots, though there
+are limitations regarding their functionality, lifetime, and production.
+The alternative scenarios have varying energy demand and environmental
+impact, potentially impacting agrochemical usage and requiring new
+policy adjustments, leading to increased complexity and potential
+controversy in farm management. In this context, this study shows the
+benefits of collaborative robots intended to replace conventional
+practices in a number of viticultural operations in order to cope with
+climate change impacts and excessive energy consumption.",
+WOS:001504294500012,article,"Li, Hui and Luo, Mingyue and Luo, Wanbo and Li, Hewei and Cong, Shuofeng","Integrated decision-control for social robot autonomous navigation
+considering nonlinear dynamics model",2025,PLOS ONE,,10.1371/journal.pone.0324341,,"Reinforcement learning (RL) has demonstrated significant potential in
+social robot autonomous navigation, yet existing research lacks in-depth
+discussion on the feasibility of navigation strategies. Therefore, this
+paper proposes an Integrated Decision-Control Framework for Social Robot
+Autonomous Navigation (IDC-SRAN), which accounts for the nonlinearity of
+social robot model and ensures the feasibility of decision-control
+strategy. Initially, inverse reinforcement learning (IRL) is employed to
+tackle the challenge of designing pedestrian walking reward.
+Subsequently, the Four-Mecanum-Wheel Robot dynamic model is constructed
+to develop IDC-SRAN, resolving the issue of dynamics mismatch of RL
+system. The actions of IDC-SRAN are defined as additional torque, with
+actual torque and lateral/longitudinal velocities integrated into the
+state space. The feasibility of the decision-control strategy is ensured
+by constraining the range of actions. Furthermore, a critical challenge
+arises from the state delay caused by model transient characteristics,
+which complicates the articulation of nonlinear relationships between
+states and actions through IRL-based rewards. To mitigate this, a
+driving-force-guided reward is proposed. This reward guides the robot to
+explore more appropriate decision-control strategies by expected
+direction of driving force, thereby reducing non-optimal behaviors
+during transient phases. Experimental results demonstrate that IDC-SRAN
+achieves peak accelerations approximately 8.3\% of baseline methods,
+significantly enhancing the feasibility of decision-control strategies.
+Simultaneously, the framework enables goal-oriented autonomous
+navigation through active torque modulation, attaining a task completion
+rate exceeding 90\%. These outcomes further validate the intelligence
+and robustness of the proposed IDC-SRAN.",
+WOS:000655241800345,inproceedings,"Ashtari, Erfan and Basiri, Mohammad Amin and Nejati, Saeid Mohammadi and
+Zandi, Hemen and Rezaei, Seyyed Hossein SeyyedAghaei and Masouleh, Mehdi
+Tale and Kalhor, Ahmad","Indoor and Outdoor Face Recognition for Social Robot, Sanbot Robot as
+Case Study",2020,,2020 28TH IRANIAN CONFERENCE ON ELECTRICAL ENGINEERING (ICEE),10.1109/icee50131.2020.9260698,,"The interaction between human and robots is of paramount importance in
+comforting robot and human in the context of social demand. For the
+purpose of human-robot interaction, the robot should have the ability to
+perform a variety of actions including face recognition, path planning,
+etc. In this paper, face recognition has been implemented on the Sanbot
+robot. Since the Sanbot robot is intended to work in real environment,
+therefore indoor and outdoor environment is taken into account in
+proposing the corresponding face recognition algorithm. For each case a
+robust pre-processing algorithm should be designed and which can
+circumvent a challenging problem in face recognition, namely, different
+lighting conditions (light intensity, angle of radiation, etc.). In case
+of indoor environment, faces in an captured image by the robot HD camera
+are found using a Haar-cascade algorithm. Afterwards, a histogram
+equalization is applied to face images in order to standardize them.
+Then commonly practiced Deep convolutional neural network structures
+such as Inception and ResNet are used to design a model and trained
+end-to-end on a customized dataset with strong augmentation. Finally, by
+using a voting method, proper prediction is carried out on each face. In
+what concerns the outdoor environment, which has more challenges, upon
+applying histogram Equalization on the captured image, faces are found
+using a MultiTask Cascaded Convolutional Neural Network. Then face
+images are aligned as head orientation are corrected. Finally, cropped
+face image is fed to Siamese Network in order to extract face features
+and verifying individuals. From several practical results it has been
+inferred that the accuracy of the indoor method is nearly 93\% without
+voting and with voting 97\%, and the outdoor method is about 95\%.",1768-1774
+WOS:001438395600010,inproceedings,"Bourguet, Marie-Luce and Xu, Minghe and Zhang, Shiyu and Urakami,
+Jacqueline and Venture, Gentiane",The Impact of a Social Robot Public Speaker on Audience Attention,2020,,"PROCEEDINGS OF THE 8TH INTERNATIONAL CONFERENCE ON HUMAN-AGENT
+INTERACTION, HAI 2020",10.1145/3406499.3415073,,"Social robots acting as stand-ins for speakers or teachers would enable
+them to reach large audiences from anywhere in the world, increasing the
+options for distant learning. They would need to be endowed with
+effective public speaking skills though, in order to deliver their
+message, entertain, and maintain audience attention.
+In this paper, we report two user studies to understand the impact of a
+social robot public speaker on its audience and compare it to a skilled
+human speaker. The first study uses an in-house audience attention
+monitoring system based on computer vision and machine learning; the
+second study uses eye tracking technology. For both studies, we
+programmed the social robot Pepper to deliver a short speech in its
+robotic voice while mimicking the behaviour of a skilled human speaker.
+We found that, when the audience has a genuine interest in the speech,
+the robot manages to maintain audience attention level as well as the
+human speaker but fails to arouse interest as much. When the audience is
+not particularly interested in the speech, the human speaker is better
+at maintaining audience attention: the novelty of the robot does not
+compensate for the lack of interest in the speech content, and the
+robot's behaviour is found to be distracting. Finally, understanding of
+the speech content is significantly lower for the robot audience. It
+could be linked to lower audience attention levels, to the robot's lack
+of facial expressions and failure to convey enthusiasm, or to a feeling
+that the robot is not legitimate to speak about the topics touched on in
+the speeches.",60-68
+WOS:000941364100001,article,"Tziolas, Emmanouil and Karapatzak, Eleftherios and Kalathas, Ioannis and
+Karampatea, Aikaterini and Grigoropoulos, Antonios and Bajoub, Aadil and
+Pachidis, Theodore and Kaburlasos, Vassilis G. G.","Assessing the Economic Performance of Multipurpose Collaborative Robots
+toward Skillful and Sustainable Viticultural Practices",2023,SUSTAINABILITY,,10.3390/su15043866,,"The increased cost of labor in modern viticulture stemming from the
+nature of operations that require physical strength and precision,
+coupled with labor shortages, poses a significant constraint in
+facilitating and scheduling seasonal activities. Therefore, autonomous
+collaborative robots present a potential solution for achieving
+sustainable development objectives and decreasing operational
+expenditures in agricultural operations. The current paper presents an
+economic assessment of collaborative robots (or cobots for short) in
+comparison to conventional labor for four different cultivars in Greece
+in a lifecycle costing methodological framework. The selected cultivars
+are Asyrtiko, Cabernet Sauvignon, Merlot and Tempranillo, which are
+cultivated by two private wineries in the area of interest. All the
+relevant expenses of their annual production were distributed to
+agricultural operations, and eight scenarios were developed to compare
+conventional and cobot practices. The results indicate the great
+potential of cobots regarding specific viticultural operations such as
+weed control, pruning, herbiciding and topping. The adoption of cobots
+in these operations has the potential to contribute to sustainable
+agriculture by reducing labor costs and addressing labor shortages,
+while also increasing the efficiency and precision of these tasks.
+Nevertheless, the defoliation and tying operations appeared to be
+inefficient in most cases in comparison to conventional labor practices.
+Overall, the annual equivalent costs could be reduced by up to 11.53\%
+using cobots, even though the projected lifetime of the cobots plays a
+significant role in the cost-effectiveness of autonomous robotic labor
+in viticulture. In conclusion, cobots could be instrumental in the Greek
+viticulture, integrating innovation and high-quality products toward
+sustainable agricultural development.",
+WOS:001521823200001,article,"Romano, Anastasia and Golunova, Elizaveta and Marruchella, Giuseppe and
+Dondona, Andrea Capobianco and Bernabo, Nicola and Del Negro, Ercole and
+Pettinella, Simon Danny and Naadland, Sondre Stokke and Jensen, Axel
+Donnum and Alvseike, Ole Arne and Nagel-Alne, Gunvor Elise","Automated detection and scoring of pleurisy in Norwegian slaughtered
+pigs: a field trial",2025,FOOD CONTROL,,10.1016/j.foodcont.2025.111514,,"Abattoirs provide a valuable opportunity to assess the impact of porcine
+pleuropneumonia, as lesions caused by Actinobacillus pleuropneumoniae
+remain visible at postmortem inspections. This study evaluated an
+artificial intelligence (AI)-based system for scoring pleurisy in
+slaughtered pigs under field conditions. The trial was conducted in a
+Norwegian abattoir, where a collaborative robot automatically captured
+carcass images. A convolutional neural network assessed pleurisy
+according to the ``Pleurisy Evaluation on the Parietal Pleura{''}
+method. In parallel, veterinarians and meat inspectors from the
+Norwegian Food Safety Authority scored pleurisy using a binary system,
+based on the presence or absence of lesions exceeding 15 cm. Moreover, a
+subset of 500 images were scored by two academic veterinarians (one has
+been working for decades in farm animals' pathology, and the other is a
+PhD student studying farm animals' respiratory pathology) using the
+``Pleurisy Evaluation on the Parietal Pleura{''} method. The same
+veterinarians recorded lesions larger than 15 cm. The AI system detected
+pleurisy in 9.80 \% of pigs, demonstrating high specificity and
+sensitivity (>95 \%) compared with veterinary assessments of digital
+images. Norwegian meat inspection staff reported pleurisy in 5.18 \% of
+pigs, showing a moderately strong correlation with the AI system
+(Spearman's rho = 0.67). Very large lesions were identified in 3.4-4.6
+\% of digital images by veterinarians. Prevalence results aligned with
+historical data, being consistent with the high health status of
+Norwegian pig herds. Lesions were mainly located on the caudal chest
+wall, supporting Actinobacillus pleuropneumoniae as a major causative
+agent. This study highlights the potential of AI-driven tools to enhance
+disease surveillance, reduce observer variability, and facilitate
+large-scale data collection in slaughterhouse environments.",
+WOS:000724145800116,inproceedings,"Rocha, Rui Pedro and de Almeida, Anibal T. and Tavakoli, Mahmoud","Water Based Magnification of Capacitive Proximity Sensors: Water
+Containers as Passive Human Detectors",2020,,"2020 IEEE/RSJ INTERNATIONAL CONFERENCE ON INTELLIGENT ROBOTS AND SYSTEMS
+(IROS)",10.1109/IROS45743.2020.9340877,,"Sensors that detect human presence received an increasing attention due
+to the recent advances in smart homes, collaborative fabrication cells,
+and human robot interaction. These sensors can be used in collaborative
+robot cells and mobile robots, in order to increase the robot awareness
+about the presence of humans, in order to increase safety during their
+operation. Among proximity detection systems, capacitive sensors are
+interesting, since they are low cost and simple human proximity
+detectors, however their detection range is limited. In this article, we
+show that the proximity detection range of a capacitive sensor can be
+enhanced, when the sensor is placed near a water container. In addition,
+the signal can pass trough several adjacent water containers, even if
+they are separated by a few centimeters. This phenomenon has an
+important implication in establishing low cost sensor networks. For
+instance, a limited number of active capacitive sensor nodes can be
+linked with several simple passive nodes, i.e. water containers, to
+detect human or animal proximity in a large area such as a farm, a
+factory or home. Analysis on the change of the maximum proximity range
+with sensor dimension, container size and liquid filler was performed in
+order to study this effect. Examples of application are also
+demonstrated.",11058-11064
+WOS:000772451900022,article,"Yan, Yijun and Ren, Jinchang and Zhao, Huan and Windmill, James F. C.
+and Ijomah, Winifred and de Wit, Jesper and von Freeden, Justus","Non-Destructive Testing of Composite Fiber Materials With Hyperspectral
+Imaging-Evaluative Studies in the EU H2020 FibreEUse Project",2022,IEEE TRANSACTIONS ON INSTRUMENTATION AND MEASUREMENT,,10.1109/TIM.2022.3155745,,"Through capturing spectral data from a wide frequency range along with
+the spatial information, hyperspectral imaging (HSI) can detect minor
+differences in terms of temperature, moisture, and chemical composition.
+Therefore, HSI has been successfully applied in various applications,
+including remote sensing for security and defense, precision agriculture
+for vegetation and crop monitoring, food/drink, and pharmaceuticals
+quality control. However, for condition monitoring and damage detection
+in carbon fiber reinforced polymer (CFRP), the use of HSI is a
+relatively untouched area, as existing non-destructive testing (NDT)
+techniques focus mainly on delivering information about physical
+integrity of structures but not on material composition. To this end,
+HSI can provide a unique way to tackle this challenge. In this article,
+with the use of a near-infrared (NIR) HSI camera, applications of HSI
+for the non-destructive inspection of CFRP products are introduced,
+taking the European Union (EU) H2020 FibreEUse project as the
+background. Technical challenges and solutions on three case studies are
+presented in detail, including adhesive residues detection, surface
+damage detection, and cobot-based automated inspection. Experimental
+results have fully demonstrated the great potential of HSI and related
+vision techniques for NDT of CFRP, especially the potential to satisfy
+the industrial manufacturing environment.",
+WOS:001277017600001,article,"Qian, Can and Yang, Kaisheng and Ruan, Yangfei and Hu, Junhao and Shao,
+Zixuan and Wang, Chongchong and Xie, Chuanqi","Design and Analysis of a Symmetric Joint Module for a Modular
+Wire-Actuated Robotic Arm with Symmetric Variable-Stiffness Units",2024,SYMMETRY-BASEL,,10.3390/sym16070829,,"Collaborative robots are used in scenarios requiring interaction with
+humans. In order to improve the safety and adaptability of collaborative
+robots during human-robot interaction, this paper proposes a modular
+wire-actuated robotic arm with symmetric variable-stiffness units. The
+variable-stiffness unit is employed to extend the stiffness-adjustment
+range of the robotic arm. The variable-stiffness unit is designed based
+on flexure, featuring a compact and simple structure. The
+stiffness-force relationship of the variable-stiffness unit can be
+fitted by a quadratic function with an R-squared value of 0.99981,
+indicating weak nonlinearity. Based on the kinematics and stiffness
+analysis of the symmetric joint module of the robotic arm, the
+orientation of the joint module can be adjusted by regulating the length
+of the wires and the stiffness of the joint module can be adjusted by
+regulating the tension of the wires. Because of the actuation
+redundancy, the orientation and stiffness of the joint module can be
+adjusted synchronously. Furthermore, a direct method is proposed for the
+stiffness-oriented wire-tension-distribution problem of the 1-DOF joint
+module. A simulation is carried out to verify the proposed method. The
+simulation result shows that the deviation between the calculated
+stiffness and the desired stiffness was less than 0.005\%.",
+WOS:000478663200036,article,"Giefer, Lino Antoni and Castellanos, Juan Daniel Arango and Babr,
+Mohammad Mohammadzadeh and Freitag, Michael","Deep Learning-Based Pose Estimation of Apples for Inspection in Logistic
+Centers Using Single-Perspective Imaging",2019,PROCESSES,,10.3390/pr7070424,,"Fruit packaging is a time-consuming task due to its low automation
+level. The gentle handling required by some kinds of fruits and their
+natural variations complicates the implementation of automated quality
+controls and tray positioning for final packaging. In this article, we
+propose a method for the automatic localization and pose estimation of
+apples captured by a Red-Green-Blue (RGB) camera using convolutional
+neural networks. Our pose estimation algorithm uses a cascaded structure
+composed of two independent convolutional neural networks: one for the
+localization of apples within the images and a second for the estimation
+of the three-dimensional rotation of the localized and cropped image
+area containing an apple. We used a single shot multi-box detector to
+find the bounding boxes of the apples in the images. Lie algebra is used
+for the regression of the rotation, which represents an innovation in
+this kind of application. We compare the performances of four different
+network architectures and show that this kind of representation is more
+suitable than using state-of-the-art quaternions. By using this method,
+we achieved a promising accuracy for the rotation regression of 98.36\%,
+considering an error range lower than 15 degrees, forming a base for the
+automation of fruit packing systems.",
+WOS:000859581100001,article,"Mocan, Bogdan and Mocan, Mihaela and Fulea, Mircea and Murar, Mircea and
+Feier, Horea",Home-Based Robotic Upper Limbs Cardiac Telerehabilitation System,2022,INTERNATIONAL JOURNAL OF ENVIRONMENTAL RESEARCH AND PUBLIC HEALTH,,10.3390/ijerph191811628,,"This article proposes a new, improved home-based cardiac
+telerehabilitation system enhanced by a robotic and Virtual Reality
+module for cardiac patients to be used in their rehabilitation program.
+In this study, a novel strategy was used to integrate existing equipment
+and applications with newly developed ones, with the aim of reducing the
+need for technical skills of patients using remote control. Patients
+with acute or chronic heart diseases require long-term, individualized
+rehabilitation in order to promote their motor recovery and maintain an
+active and independent lifestyle. This will be accomplished by creating
+a system for at-home cardiac telerehabilitation augmented by a VR and
+cobot systems, which can be used long-term at home by each individual
+patient. In the pre-feasibility study carried out on healthy volunteers
+familiar with software applications and robotic systems, we demonstrate
+that RoboTeleRehab could be technically feasible both hardware and
+software.",
+WOS:000838684300005,inproceedings,"Shu, Beibei and Sziebig, Gabor",Collaboration with High-Payload Industrial Robots: Simulation for Safety,2019,,ADVANCED MANUFACTURING AND AUTOMATION VIII,10.1007/978-981-13-2375-1\_5,,"When operators and industrial robots are sharing the same task, there
+are multiple factors, which effect if a system is safe for the human
+operator or not. In general this is solved by introducing Collaborative
+Robot for cooperation, but what happens when we would extend our already
+existing production facilities with newer comfort features?
+In this paper we propose to include industrial robots and humans
+executing the same task, while their safety is supervised by a
+simulation environment, where all necessary precautions are taken. The
+task is a simple nut-screw operation, where the industrial robot is
+executing the hard lifting part for the screw and the human holds the
+nut to be screwed on the screw. Results are demonstrated through
+simulation and in reality also.",34-38
+WOS:001339076200001,article,"Canadas-Aranega, Fernando and Moreno, Jose C. and Blanco-Claraco, Jose
+L. and Gimenez, Antonio and Rodriguez, Francisco and Sanchez-Hermosilla,
+Julian","Autonomous collaborative mobile robot for greenhouses: Design,
+development, and validation tests",2024,SMART AGRICULTURAL TECHNOLOGY,,10.1016/j.atech.2024.100606,,"This paper describes the development of a mobile agricultural robot
+capable of performing high-capacity transport tasks within greenhouses
+in presence of people or other agricultural machines. The main objective
+is to provide the robot with enough technology to work collaboratively
+with nearby human workers. In addition, the robot must also be able to
+transport 100 kilograms in a safe way over uneven terrain, a
+characteristic not usually found in existing greenhouse robots. This is
+important to ensure the sustainability of intensive greenhouse
+cultivation, as it is essential to allow more flexible use of robots
+when adapting. This would allow for expanding infrastructure size and
+operating volume to suit different greenhouse conditions, thus
+maximizing production. The robot is fitted with different sensors to
+enable autonomous navigation, perception, and to identify the
+environment and the operators (3D LiDAR, stereo cameras, and
+ultrasound). It also features the hardware necessary for cloud
+connection to share data in real time. All sensors have been validated
+to work correctly, hence the robot can move around the greenhouse. With
+the software currently used for collaborative robotics, the ultrasounds
+correctly identify the environment, and cameras and LiDAR can locate the
+farmer correctly. In this work, several gaps in greenhouse robotics are
+addressed by designing, developing, and validating a collaborative
+mobile robot with advanced sensors and algorithms with IoT integration.
+The robot lays the foundation for the implementation of autonomous
+navigation, collaborating with farmers in real-time and efficient
+operation in complex greenhouse environments, laying the groundwork for
+future advances in agricultural automation.",
+WOS:001430985500004,inproceedings,"Indurkhya, Xela and Venture, Gentiane",Audio-Based Analysis of Child-Robot Interactions in the Wild,2024,,"EUROPEAN ROBOTICS FORUM 2024, ERF, VOL 2",10.1007/978-3-031-76428-8\_4,,"We describe 2 in-the-wild child-robot interaction English-language group
+experiments conducted in India, using the social robot Vector. We
+analyze the children's engagement with the robot for the duration of
+each interaction by analyzing their vocal behavior using 3 approaches:
+the gendering of the robot by the children, a behavioral categorization
+system, and a qualitative breakdown of vocal behaviors observed. We
+highlight the potential of audio- and language-based behavioral analysis
+for human-robot interaction.",19-23
+WOS:001192693400001,article,"Kee, Elven and Chong, Jun Jie and Choong, Zi Jie and Lau, Michael","Object Detection with Hyperparameter and Image Enhancement Optimisation
+for a Smart and Lean Pick-and-Place Solution",2024,SIGNALS,,10.3390/signals5010005,,"Pick-and-place operations are an integral part of robotic automation and
+smart manufacturing. By utilizing deep learning techniques on
+resource-constraint embedded devices, the pick-and-place operations can
+be made more accurate, efficient, and sustainable, compared to the
+high-powered computer solution. In this study, we propose a new
+technique for object detection on an embedded system using SSD Mobilenet
+V2 FPN Lite with the optimisation of the hyperparameter and image
+enhancement. By increasing the Red Green Blue (RGB) saturation level of
+the images, we gain a 7\% increase in mean Average Precision (mAP) when
+compared to the control group and a 20\% increase in mAP when compared
+to the COCO 2017 validation dataset. Using a Learning Rate of 0.08 with
+an Edge Tensor Processing Unit (TPU), we obtain high real-time detection
+scores of 97\%. The high detection scores are important to the control
+algorithm, which uses the bounding box to send a signal to the
+collaborative robot for pick-and-place operation.",87-104
+WOS:000544103300003,article,"Coronado, Enrique and Mastrogiovanni, Fulvio and Indurkhya, Bipin and
+Venture, Gentiane","Visual Programming Environments for End -User Development of intelligent
+and social robots, a systematic review",2020,JOURNAL OF COMPUTER LANGUAGES,,10.1016/j.cola.2020.100970,,"Robots are becoming interactive and robust enough to be adopted outside
+laboratories and in industrial scenarios as well as interacting with
+humans in social activities. However, the design of engaging robot -
+based applications requires the availability of usable, flexible and
+accessible development frameworks, which can be adopted and mastered by
+researchers and practitioners in social sciences and adult end users as
+a whole. This paper surveys Visual Programming Environments aimed at
+enabling a paradigm fos- tering the so-called End -User Development of
+applications involving robots with social capabilities. The focus of
+this article is on those Visual Programming Environments that are
+designed to support social re- search goals as well as to cater for
+professional needs of people not trained in more traditional text -based
+computer programming languages. This survey excludes interfaces aimed at
+supporting expert program- mers, at allowing industrial robots to
+perform typical industrial tasks (such as pick and place operations),
+and at teaching children how to code. After having performed a
+systematic search, sixteen programming environments have been included
+in this survey. Our goal is two -fold: first, to present these software
+tools with their technical features and Authoring Artificial
+Intelligence modeling approaches, and second, to present open challenges
+in the development of Visual Programming Environments for end users and
+social researchers, which can be informative and valuable to the
+community. The results show that the most recent such tools are adopting
+distributed and Component -Based Software Engineering approaches and web
+technologies. However, few of them have been designed to enable the
+independence of end users from high-tech scribes. Moreover, findings
+indicate the need for (i) more objective and comparative evaluations, as
+well as usability and user experience studies with real end users; and
+(ii) validations of these tools for designing applications aimed at
+working ?in -the -wild? rather than only in laboratories and structured
+settings.",
+WOS:001535292900001,article,"Mei, Zhimin and Li, Yifan and Zhu, Rongbo and Wang, Shucai","Intelligent Fruit Localization and Grasping Method Based on YOLO VX
+Model and 3D Vision",2025,AGRICULTURE-BASEL,,10.3390/agriculture15141508,,"Recent years have seen significant interest among agricultural
+researchers in using robotics and machine vision to enhance intelligent
+orchard harvesting efficiency. This study proposes an improved hybrid
+framework integrating YOLO VX deep learning, 3D object recognition, and
+SLAM-based navigation for harvesting ripe fruits in greenhouse
+environments, achieving servo control of robotic arms with flexible
+end-effectors. The method comprises three key components: First, a fruit
+sample database containing varying maturity levels and morphological
+features is established, interfaced with an optimized YOLO VX model for
+target fruit identification. Second, a 3D camera acquires the target
+fruit's spatial position and orientation data in real time, and these
+data are stored in the collaborative robot's microcontroller. Finally,
+employing binocular calibration and triangulation, the SLAM navigation
+module guides the robotic arm to the designated picking location via
+unobstructed target positioning. Comprehensive comparative experiments
+between the improved YOLO v12n model and earlier versions were conducted
+to validate its performance. The results demonstrate that the optimized
+model surpasses traditional recognition and harvesting methods, offering
+superior target fruit identification response (minimum 30.9ms) and
+significantly higher accuracy (91.14\%).",
+WOS:000605588300002,article,"Fei, Zhenghao and Vougioukas, Stavros G.","Co-robotic harvest-aid platforms: Real-time control of picker lift
+heights to maximize harvesting efficiency",2021,COMPUTERS AND ELECTRONICS IN AGRICULTURE,,10.1016/j.compag.2020.105894,,"Harvest-aid platforms are used in modern orchards to improve manual
+harvesting efficiency, safety, and ergonomics. Typically, workers stand
+at pre-set heights on a platform's multi-level deck, and each worker
+harvests fruits inside a canopy zone that is defined by the lowest and
+highest reach of the worker's arms. However, fruit distributions are
+non-uniform, and worker picking speeds vary, thus generating a mismatch
+between labor demand (incoming fruit rates) and labor supply (fruit
+picking rates) in each zone; this mismatch limits plat-formbased
+harvesting efficiencies. To alleviate this problem, we transformed a
+conventional harvesting platform into a collaborative robot (co-robot)
+platform. As the co-robotic platform travels forward, it estimates the
+incoming fruit distribution using a vision system, it measures each
+worker's picking speed using instrumented picking bags, and controls the
+heights of hydraulic lifts that move workers up and down. The
+model-based control algorithm maximizes the machine's harvesting speed
+by changing the height at which each worker harvests as a response to
+incoming fruit load because it matches fruit-picking labor supply and
+demand. Simulation experiments with pre-recorded fruit distribution data
+validated the approach and provided efficiency gains under various
+conditions. Apple-harvesting experiments were also performed in a
+commercial orchard, where 2307 kg of apples were picked: 1045 kg in
+variable-height zone harvesting mode, and 1262 kg in fixed zone
+harvesting mode, with workers at fixed heights that were set by the
+grower. Variable-height zone harvesting mode throughput was 327.6 kg/h
+vs. 298.8 kg/h for fixed zone harvesting mode at human-controlled
+platform moving speed, resulting in an improvement of 9.5\%.",
+WOS:001124764700002,article,"Ding, Zehong and Fu, Lili and Wang, Bin and Ye, Jianqiu and Ou, Wenjun
+and Yan, Yan and Li, Meiying and Zeng, Liwang and Dong, Xuekui and Tie,
+Weiwei and Ye, Xiaoxue and Yang, Jinghao and Xie, Zhengnan and Wang, Yu
+and Guo, Jianchun and Chen, Songbi and Xiao, Xinhui and Wan, Zhongqing
+and An, Feifei and Zhang, Jiaming and Peng, Ming and Luo, Jie and Li,
+Kaimian and Hu, Wei","Metabolic GWAS-based dissection of genetic basis underlying nutrient
+quality variation and domestication of cassava storage root",2023,GENOME BIOLOGY,,10.1186/s13059-023-03137-y,,"BackgroundMetabolites play critical roles in regulating nutritional
+qualities of plants, thereby influencing their consumption and human
+health. However, the genetic basis underlying the metabolite-based
+nutrient quality and domestication of root and tuber crops remain
+largely unknown.ResultsWe report a comprehensive study combining
+metabolic and phenotypic genome-wide association studies to dissect the
+genetic basis of metabolites in the storage root (SR) of cassava. We
+quantify 2,980 metabolic features in 299 cultivated cassava accessions.
+We detect 18,218 significant marker-metabolite associations via
+metabolic genome-wide association mapping and identify 12 candidate
+genes responsible for the levels of metabolites that are of potential
+nutritional importance. Me3GT, MeMYB4, and UGT85K4/UGT85K5, which are
+involved in flavone, anthocyanin, and cyanogenic glucoside metabolism,
+respectively, are functionally validated through in vitro enzyme assays
+and in vivo gene silencing analyses. We identify a cluster of cyanogenic
+glucoside biosynthesis genes, among which CYP79D1, CYP71E7b, and UGT85K5
+are highly co-expressed and their allelic combination contributes to low
+linamarin content. We find MeMYB4 is responsible for variations in
+cyanidin 3-O-glucoside and delphinidin 3-O-rutinoside contents, thus
+controlling SR endothelium color. We find human selection affects
+quercetin 3-O-glucoside content and SR weight per plant. The candidate
+gene MeFLS1 is subject to selection during cassava domestication,
+leading to decreased quercetin 3-O-glucoside content and thus increased
+SR weight per plant.ConclusionsThese findings reveal the genetic basis
+of cassava SR metabolome variation, establish a linkage between
+metabolites and agronomic traits, and offer useful resources for
+genetically improving the nutrition of cassava and other root crops.",
+WOS:000894783700001,article,"Xin, Xin and Keoh, Sye Loong and Sevegnani, Michele and Saerbeck, Martin
+and Khoo, Teck Ping",Adaptive Model Verification for Modularized Industry 4.0 Applications,2022,IEEE ACCESS,,10.1109/ACCESS.2022.3225399,,"Cyber-Physical Systems (CPSs) are the core of Industry 4.0 applications,
+integrating advanced technologies such as sensing, data analytics, and
+artificial intelligence. This kind of combination typically consists of
+networked sensors and decision-making processes in which
+sensor-generated data drive the control decisions. Hence, the
+trustworthiness of the sensors is essential to guarantee performance,
+safety and quality during operation. Formal model verification
+techniques are a valuable tool allowing strong reasoning about the
+high-level design of CPSs. However, the uncertainty exhibited by the
+underlying sensor networks is often ignored. Manufacturing processes
+typically involve composition of various modular CPSs that work as a
+whole, such as multiple Collaborative Robots (cobots) working together
+as a production line, which improves the flexibility and resilience of
+the production process. It is still challenging to verify this class of
+compositional process while also considering uncertainty. We propose a
+novel verification framework for modular CPSs that combines sensor-level
+data-driven fault detection and system-level model-driven probabilistic
+model checking. The resulting framework can rigorously quantify sensor
+readings' trustworthiness, enabling formal reasoning for system failure
+prediction and reliability analysis. We validated our approach on a
+cobots-based manufacturing process.",125353-125364
+WOS:001363593500001,article,"Yang, Liangliang and Noguchi, Tomoki and Hoshino, Yohei","Development of a pumpkin fruits pick-and-place robot using an RGB-D
+camera and a YOLO based object detection AI model",2024,COMPUTERS AND ELECTRONICS IN AGRICULTURE,,10.1016/j.compag.2024.109625,,"It is a hard job for farmers to harvest heavy fruits such as pumpkin
+fruits because of the aging problem of farmers. To solve this problem,
+this study aims to develop an automatic pick-and-place robot system that
+alleviates labor demands in pumpkin harvesting. We proposed a system
+capable of detecting pumpkins in the field and obtaining their
+three-dimensional (3D) coordinate values using artificial intelligence
+(AI) object detection methods and RGB-D camera, respectively. The
+harvesting system incorporates a crawler-type vehicle as the base
+platform, while a collaborative robot arm is employed to lift the
+pumpkin fruits. A newly designed robot hand, mounted at the end of the
+robot arm, is responsible for grasping the pumpkins. In this paper, we
+utilized various versions of YOLO (from version 2 to 8) for pumpkin
+fruit detection, and compare the results obtained from these different
+versions. The RGB-D camera, that was mounted at the root of the robot
+arm, captures the position of the pumpkin fruits in camera coordinates.
+We proposed a calibration method can simply transform the position to
+the coordinates of robot arm. In addition, we finished all the software
+and hardware of the pumpkin fruits pick-andplace robot system. Field
+experiments were conducted at an outdoor pumpkin field. The experiments
+demonstrate the fruits detection accuracy rate exceeding 99\% and a
+picking success rate surpassing 90\%. However, fruits that were
+surrounded by excessive vines could not be successfully grasped.",
+WOS:001531722800016,inproceedings,"Nahum, Ehud and Edan, Yael and Oron-Gilad, Tal","Investigating the Proxemics Shape in Social Navigation: An Exploratory
+User Study",2025,,"SOCIAL ROBOTICS, ICSR + AI 2024, PT I",10.1007/978-981-96-3522-1\_16,,"Proxemics is a crucial aspect of social robot navigation that studies
+how people utilize the physical space around them and position
+themselves relative to others. This exploratory user study looked at the
+interaction distances users preferred in human-robot interaction with a
+mobile teleoperated robot; the distances were utilized to design
+appropriate proxemics shapes. A within-the-group experimental design was
+conducted with four independent variables: two positions
+(sitting/standing) and two approach directions (front/back); each user
+experienced all four trials. Results indicate that the proxemics
+distance is not affected by the participant's position but by the
+robot's approach direction. Participants required more distance from the
+robot when approaching them from the front. The outcome distances
+combined with findings from the literature led to the formation of an
+asymmetric proxemics shape with higher distances than Hall's {[}1]
+traditional circular shape and distance zones, representing real-world
+interactions and distance preferences in human-robot encounters.",168-177
+WOS:001367899400001,article,"Zhou, Cheng and Dong, Wanqing",How do older adults react to social robots' offspring-like voices,2025,SOCIAL SCIENCE \& MEDICINE,,10.1016/j.socscimed.2024.117545,,"Social robots are being developed as a technological solution to
+alleviate older adults' loneliness due to separation from their
+offspring. This study explores how and why offspring-like voices affect
+older adults' acceptance of social robots from an auditory perspective,
+which differ from the visual aspects of human-robot interactions. Three
+scenario-based studies are conducted among a large number of cognitively
+intact older adults. Our findings reveal a positive correlation between
+the offspring-like voices of social robots and older adults' acceptance
+of the robots. Further, social identity served as a psychological
+mechanism mediating the effect of offspring-like voices on the
+acceptance of older adults, whereas spatial distance acted as a positive
+moderator of these direct and indirect effects. Notably, older adults
+were more willing to accept social robots with grandchildren-like
+voices. These insights offer theoretical contributions to the literature
+on social identity theory and the similarity attraction paradigm, as
+well as practical implications for social robot design and development,
+thereby contributing to the evolving landscape of human-robot
+interaction acceptance.",
+WOS:000533896300001,inproceedings,"Ueno, Azumi and Hayashi, Kotaro and Mizuuchi, Ikuo","Impression Change on Nonverbal Non-Humanoid Robot by Interaction with
+Humanoid Robot",2019,,"2019 28TH IEEE INTERNATIONAL CONFERENCE ON ROBOT AND HUMAN INTERACTIVE
+COMMUNICATION (RO-MAN)",10.1109/ro-man46459.2019.8956240,,"Even if a robot is not designed with a specific impression, if there is
+a means that can add an impression later to the robot, it will be useful
+for social robot design, we considered. In particular, anthropomorphism
+seems to be an important impression of designing social interaction
+between humans and robots. In the movie, ``STAR WARS,{''} there is a
+non-humanoid robot, called R2-D2, which communicates mainly by sounds. A
+humanoid interpreter robot, called C-3PO, responds to the sound of R2-D2
+with natural language and gesture. And the audience finds the
+personality in R2-D2 richer than the personality which is based on the
+information which R2-D2's sounds have. It might be possible to change
+the impression of a non-humanoid robot emitting simple sounds by
+communication with a humanoid robot that speaks a natural language and
+make gestures. We conducted an impression evaluation experiment. In the
+condition where robots are interacting, the observer evaluated
+anthropomorphism of the non-humanoid robot more than in the
+non-interacting condition. There were also some other impressions that
+have changed.",
+WOS:000662184600023,inproceedings,"Bourguet, Marie-Luce and Jin, Yanning and Shi, Yuyuan and Chen, Yin and
+Rincon-Ardila, Liz and Venture, Gentiane",Social Robots that can Sense and Improve Student Engagement,2020,,"PROCEEDINGS OF 2020 IEEE INTERNATIONAL CONFERENCE ON TEACHING,
+ASSESSMENT, AND LEARNING FOR ENGINEERING (IEEE TALE 2020)",10.1109/tale48869.2020.9368438,,"It is highly likely that classrooms of the future will feature robots to
+assist the human teachers. Tutor robots will be valued for their
+capacity to motivate learners and to provide affective support during
+learning activities, which will require from them to he able to
+understand the students' affects and behaviours, and to respond to these
+through appropriate expressive motions. In this paper, we investigate
+the impact a robot teacher's behaviour has on the students' level of
+engagement. We outline research work we have carried out to tackle four
+of the challenges inherent to the effective deployment of social robots
+in classrooms: (1) sensing and understanding learners' affective states
+and behaviours in class; (2) combining affect and behaviour
+understanding to capture classroom's dynamics; (3) knowing what gestures
+a social robot should use as a learning facilitator; and (4) equipping
+the tutor robot with expressive and motivational capabilities.",127-134
+WOS:000365048300007,article,"Baddoura, Ritta and Venture, Gentiane","This Robot is Sociable: Close-up on the Gestures and Measured Motion of
+a Human Responding to a Proactive Robot",2015,INTERNATIONAL JOURNAL OF SOCIAL ROBOTICS,,10.1007/s12369-015-0279-x,,"During an unannounced encounter, we study the appreciation of the
+robot's sociable character (measured via the answers to a questionnaire)
+and the motion (arm and head movement frequency and smoothness using IMU
+sensors) of two humans interacting with a proactive humanoid, knowing
+that the experiment involves twenty pairs of participants. We also
+investigate the dependencies between the participants' response to the
+robot's non-verbal actions and their perception of its sociability. Our
+results show that the more the humans find the robot sociable, the more
+they tend to respond to its engaging gestures and the higher is the
+frequency of their arm motion and the smoothness of their head motion
+when interacting with it. Therefore, these results show that measurable
+physical movements might be significant indicators to investigate a
+social robot's sociable character from the human partner's point of
+view, as well as to possibly infer the human tendency to interact with
+it. More generally, the sociable trait attributed to an assistive robot
+operating in a public or in a private environment, seems to be one of
+the keys to the success of human-robot interactions.",489-496
+WOS:001323446500001,article,"Arolkar, Neha M. and Ortiz, Coral and Dapurkar, Nikita and Blanes,
+Carlos and Gonzalez-Planells, Pablo","Automated Tenderness Assessment of Okra Using Robotic Non-Destructive
+Sensing",2024,HORTICULTURAE,,10.3390/horticulturae10090930,,"The quality of okra is crucial in satisfying consumer expectations, and
+the tenderness of okra is an essential parameter in estimating its
+condition. However, the current methods for assessing okra tenderness
+are slow and prone to errors, necessitating the development of a better,
+non-destructive method. The objective of the present study is to develop
+and test a non-destructive robotic sensor for assessing okra freshness
+and tenderness. A total of 120 pods were divided into two sets and
+stored under different conditions: 60 pods were kept in a cold chamber
+for 24 h (considered tender), while the other 60 pods were stored at
+room temperature for two days. First, the samples were assessed
+non-destructively using the force sensor of a collaborative robot, where
+a jamming pad (with internal granular fill) was capable of adapting and
+copying the okra shapes while controlling its force deformation. Second,
+the okra pods were evaluated with the referenced destructive tests, as
+well as weight loss, compression, and puncture tests. In order to
+validate the differences in the tenderness of the two sets, a
+discriminant analysis was carried out to segregate the okra pods into
+the two categories according to the destructive variables, confirming
+the procedure which was followed to produce tender and non-tender okra
+pods. After the differences in the tenderness of the two sets were
+confirmed, the variables extracted from the robotic sensor (maximum
+force (Fmax), first slope (S1), second slope (S2), the first overshoot
+(Os), and the steady state (Ss)) were significant predictors for the
+separation in the two quality categories. Discriminant analysis and
+logistic regression methods were applied to classify the pods into the
+two tenderness categories. Promising results were obtained using neural
+network classification with 80\% accuracy in predicting tenderness from
+the sensor data, and a 95.5\% accuracy rate was achieved in
+distinguishing between tender and non-tender okra pods in the validation
+data set. The use of the robotic sensor could be an efficient tool in
+evaluating the quality of okra. This process may lead to substantial
+savings and waste reduction, particularly considering the elevated cost
+and challenges associated with transporting perishable vegetables.",
+WOS:000557246500062,inproceedings,"Coronado, Enrique and Indurkhya, Xela and Venture, Gentiane","Robots Meet Children, Development of Semi-Autonomous Control Systems for
+Children-Robot Interaction in the Wild",2019,,"2019 IEEE 4TH INTERNATIONAL CONFERENCE ON ADVANCED ROBOTICS AND
+MECHATRONICS (ICARM 2019)",10.1109/icarm.2019.8833751,,"In the study of social and service robots, it is necessary to obtain
+more valuable quantitative and qualitative data of humans interacting
+with these robots in natural and unstructured environments. This data
+can be used to better design applications and robots with higher social
+impact. In this paper, we show how the integration of perceptual robot
+control and decision-making architecture can enable the creation of
+semi-autonomous robots for Children-Robot Interaction (CRI) ``in the
+wild{''}. Unlike most previous works in this field, our proposal mainly
+uses distributed, open, cross-platform and reactive software components.
+In order to enhance scalability and modularity, the modeling of both the
+autonomous and remote-controlled robot behaviors are perliffmed using a
+Behavior Tree (BT) approach. We experimentally validate the proposed
+system with a pilot study in a public and highly noisy environment
+outside the laboratory with a large group of children interacting in
+different activities (two stories, a dance, a game, and autonomous
+interaction). Experimental settings and preliminary insights are also
+described.",360-365
+WOS:000314787600011,inproceedings,"Gouko, Manabu and Kobayashi, Yuichi",State Representation with Perceptual Constancy Based on Active Motion,2010,,"SOCIAL ROBOTICS, ICSR 2010",,,"In a robot system, it is important to consider how the outside
+environment is expressed as a state using sensor information. In this
+study, we provide a state representation that can express the sensor
+output changed by environmental change as the same state. It assumes
+that sensor outputs are probability distributions, and the distances
+between the distributions of each sensor's output are used to express a
+state. To confirm the effectiveness of the proposed state
+representation, we conducted experiments using a mobile robot. The
+results confirmed that the proposed representation could recognize
+similar states using a converted sensor output.",100-109
